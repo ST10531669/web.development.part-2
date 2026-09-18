@@ -2,8 +2,6 @@
 
 **Beauty and Personal-Care Services Website**
 
----
-
 ## 1. Project Overview
 
 Mhlongo’s Royal Treatment is a beauty and personal-care business focused on providing quality, professional, and personalised services. The business started by providing acrylic and gel nail services to family, friends, and students before expanding its customer base and services.
@@ -13,8 +11,6 @@ The website was created to give the business a professional online presence and 
 The website uses a **luxurious, elegant, modern, and welcoming design** based around the concept of giving every customer the **“Royal Treatment.”**
 
 The main target audience is customers aged **18–60**, including students, young adults, working professionals, men, women, families, and special-occasion clients.
-
----
 
 ## 2. Functionality and Features
 
@@ -77,8 +73,6 @@ The main target audience is customers aged **18–60**, including students, youn
 * Clear call-to-action buttons
 * SEO considerations
 
----
-
 ## 3. Design
 
 The website has been designed to create a professional and luxurious customer experience.
@@ -100,8 +94,6 @@ The website is responsive and designed for:
 * Desktop computers
 
 The interface uses clear navigation, readable typography, high-quality imagery, and prominent buttons such as **“Book Now,” “View Services,”** and **“Contact Us.”**
-
----
 
 # 4. Sitemap
 
@@ -138,8 +130,6 @@ MHLONGO'S ROYAL TREATMENT
     └── Location / Map
 ```
 
----
-
 # 5. Website Structure Diagram
 
 ```text
@@ -163,9 +153,9 @@ MHLONGO'S ROYAL TREATMENT
         ├───────────────┬───────────────┬──────────────┐         │
         │               │               │              │         │
         ▼               ▼               ▼              ▼         ▼
-   ┌───────────┐  ┌────────────┐  ┌───────────┐  ┌────────┐ ┌────────┐
-   │Appointments│  │ Promotions │  │  Reviews  │  │  FAQs  │ │Contact │
-   └─────┬─────┘  └────────────┘  └───────────┘  └────────┘ └────────┘
+   ┌───────────┐  ┌────────────┐  ┌───────────┐  ┌────────┐ 
+   │Appointments│  │ Promotions │  │  FAQs  │ │Contact │
+   └─────┬─────┘  └────────────┘  └───────────┘  └────────┘ 
          │
          ▼
    ┌──────────────┐
@@ -177,8 +167,6 @@ MHLONGO'S ROYAL TREATMENT
    │ Confirmation │
    └──────────────┘
 ```
-
----
 
 # 6. Technologies Used
 
@@ -222,46 +210,34 @@ A backend and database may be added in future versions to support:
 * Customer accounts
 * Online shopping
 
----
-
 # 7. Project Structure
 
 ```text
 Mhlongos-Royal-Treatment/
 │
-├── index.html
-│
-├── pages/
-│   ├── about.html
-│   ├── services.html
-│   ├── gallery.html
-│   ├── booking.html
-│   ├── promotions.html
-│   ├── reviews.html
-│   ├── faq.html
-│   └── contact.html
+├── about.html
+├── service.html
+├── home.html
+├── enquiry.html
+├── contact.html
 │
 ├── css/
 │   └── style.css
 │
-├── js/
-│   └── script.js
-│
 ├── images/
-│   ├── logo/
-│   ├── gallery/
-│   └── services/
-│
+│   ├── massage therapy.jpg
+│   ├── nails 1 gel nails".jpg
+│   ├──nails 3 acrylic nails.jpg
+│   ├── nails 2 acrylic nails.jpg
+│   └──"nails 4 gel nails".jpg
 └── README.md
 ```
-
----
 
 # 8. Changelog
 
 The changelog records the development, changes, improvements, and planned updates made to the website.
 
-## Version 0.1 – Initial Planning
+## Part 1 – Initial Planning
 
 ### Added
 
@@ -273,6 +249,23 @@ The changelog records the development, changes, improvements, and planned update
 * Identified the need for appointment functionality.
 * Identified the requirement for responsive design.
 * Established the main website sections.
+  part2 styling 
+
+### Part 2 – CSS Styling
+
+* Added CSS styling to improve the overall appearance of the website.
+* Applied a pink and white colour scheme to match the beauty and luxury theme.
+* Styled headings, navigation links, buttons, sections, cards, forms, gallery images, and footer.
+* Added spacing, rounded corners, shadows, and hover effects.
+* Created a responsive grid layout for the services and gallery sections.
+* Improved the website to make it more attractive, organised, and user-friendly.
+
+### Version 0.3 – Styling Improvements
+
+* Refined the layout and spacing of different sections.
+* Improved button and navigation styling.
+* Added visual effects to make the website more professional and appealing.
+* Prepared the website for further responsive and functional improvements.
 
 ### Planned Pages
 
@@ -282,8 +275,6 @@ The changelog records the development, changes, improvements, and planned update
 * Gallery
 * Appointments
 * Contact Us
-
----
 
 ## Version 0.2 – Website Structure
 
@@ -308,8 +299,6 @@ The main navigation was organised into:
 * Appointments
 * Contact Us
 
----
-
 ## Version 0.3 – Visual Design
 
 ### Added
@@ -333,8 +322,6 @@ The main navigation was organised into:
 * Planned mobile-friendly layouts.
 * Planned consistent button styling.
 
----
-
 ## Version 0.4 – Homepage
 
 ### Added
@@ -355,8 +342,6 @@ The main navigation was organised into:
 * User flow.
 * Visibility of important information.
 
----
-
 ## Version 0.5 – Services
 
 ### Added
@@ -374,7 +359,6 @@ The main navigation was organised into:
 * Customer access to service details.
 * Visibility of appointment options.
 
----
 
 ## Version 0.6 – Gallery
 
@@ -391,8 +375,6 @@ The main navigation was organised into:
 * Visual presentation of services.
 * Customer ability to view examples of previous work.
 * Image organisation.
-
----
 
 ## Version 0.7 – Appointment System
 
@@ -417,8 +399,6 @@ The main navigation was organised into:
 * Customer access to appointments.
 * User interaction with the booking system.
 
----
-
 ## Version 0.8 – Contact Section
 
 ### Added
@@ -439,8 +419,6 @@ The main navigation was organised into:
 * Accessibility of business information.
 * Access to location details.
 
----
-
 ## Version 0.9 – Additional Features
 
 ### Added
@@ -458,8 +436,6 @@ The main navigation was organised into:
 * Loyalty programme.
 * Automated appointment reminders.
 * Customer accounts.
-
----
 
 # Version 1.0 – Final Website
 
@@ -501,8 +477,6 @@ Testing included:
 * User experience
 * Interactive elements
 
----
-
 # Future Updates
 
 ## Version 1.1
@@ -538,8 +512,6 @@ Planned improvements:
 * Advanced customer management.
 * Additional marketing functionality.
 
----
-
 # 9. References
 
 The following sources were used for technical and web-development guidance:
@@ -556,8 +528,6 @@ The following sources were used for technical and web-development guidance:
 
 6. World Wide Web Consortium (W3C) (n.d.) *Web Accessibility Initiative (WAI)*. Available at: https://www.w3.org/WAI/
 
----
-
 ## 10. Project Status
 
 **Status:** Completed / Final Development Stage
@@ -566,4 +536,3 @@ The following sources were used for technical and web-development guidance:
 **Version:** 1.0
 **Year:** 2026
 
----
