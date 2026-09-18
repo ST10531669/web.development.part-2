@@ -1,1 +1,569 @@
-Mhlongo’s Royal Treatment began from a passion for beauty services, starting with acrylic and gel nails for family, friends, and residence students. After gaining experience and improving her skills, the owner became more serious about the business in 2025 and expanded her services in 2026. The business focuses on providing quality services, professionalism, respect, and a welcoming atmosphere, ensuring every client receives “royal treatment.” Through dedication, customer recommendations, quality products, and continuous improvement, the business continues to grow. Its future goals include expanding services, creating employment, entering new markets, and building a trusted, reputable brand. Mhlongo’s Royal Treatment is committed to providing outstanding, reliable, and professional services that make every client feel valued, respected, and appreciated. The business focuses on quality, attention to detail, personalised care, honesty, and integrity while creating a safe and welcoming environment. Through continuous learning, skilled staff, modern equipment, and innovative methods, the company aims to exceed customer expectations and build lasting relationships. Its vision is to become one of South Africa’s most trusted and successful service providers, recognised for excellence and exceptional customer experiences. The business also aims to create employment, empower employees, support communities, expand its services, and build a lasting national legacy. Mhlongo’s Royal Treatment targets a diverse group of clients aged 18–60, including women, men, students, young adults, working professionals, families, and special-occasion clients. The business serves people from low, middle, and high-income groups who value affordability, quality, comfort, grooming, self-care, and professional customer service. Its primary market includes clients seeking reliable, personalised, and welcoming beauty and personal-care services. The business mainly serves local and surrounding communities while aiming to expand its customer base. Customers expect friendly service, cleanliness, flexible bookings, reasonable prices, and consistent quality. Future growth will focus on social media, loyalty programmes, partnerships, and expanded services. The Mhlongo’s Royal Treatment website aims to establish a strong online presence, increase brand awareness, attract new customers, and support business growth. It will provide clear information about the company, services, products, prices, promotions, and values. Customers will be able to make bookings, communicate through contact forms, WhatsApp, email, phone, and social media, and access online shopping where applicable. The website will build trust through customer reviews, galleries, FAQs, and company policies. It will also provide useful beauty, wellness, grooming, and self-care information. In the future, the website will support new services, locations, online payments, loyalty programmes, and marketing campaigns. The success of Mhlongo’s Royal Treatment website will be measured through key performance indicators such as website traffic, booking conversion rates, enquiries, online sales, customer retention, bounce rate, session duration, search rankings, customer satisfaction, social media engagement, newsletter sign-ups, and mobile user experience. The business aims to attract 1,000–2,000 monthly visitors, achieve 10–15% booking conversions, receive at least 50 monthly enquiries, maintain 70% repeat customers, and achieve a 4.5/5 customer rating. The overall objective is to create an effective digital platform that improves customer satisfaction, increases bookings and sales, strengthens relationships, builds brand awareness, and supports long-term business growth. Mhlongo’s Royal Treatment has an opportunity to strengthen its online presence by developing a professional and informative website. Its unique business name can support a strong brand identity, while an online presence can improve credibility and help customers learn about available services. However, the current online presence has limited information, making it difficult for customers to find services, prices, contact details, business hours, location, and booking options. The new website should therefore be mobile-friendly, easy to navigate, and visually appealing, with clear service descriptions, professional images, contact information, online booking, and prominent call-to-action buttons such as “Book Now,” “Contact Us,” and “View Services.” The proposed Mhlongo’s Royal Treatment website will provide a professional, welcoming, and user-friendly experience for customers. The homepage will introduce the business, highlight its unique services, and display important information such as telephone number, email address, physical location, business hours, social media links, and an enquiry form. An embedded map can help customers find the business easily. The website will also include an online booking system where clients can select their preferred service, date, and time while providing their contact details and additional requests. Customers will receive confirmation after submitting a booking or enquiry. The website may also include service prices, promotions, reviews, galleries, FAQs, and secure payment options. Mhlongo’s Royal Treatment website will have a luxurious, elegant, modern, and welcoming design that reflects the brand’s focus on beauty and excellent customer care. The colour scheme will use royal purple, gold, white/cream, and dark charcoal to create a sophisticated identity. Modern, readable fonts will be combined with stylish headings and clear typography. The layout will be spacious, organised, and supported by high-quality images and clear call-to-action buttons such as “Book an Appointment” and “View Our Services.” Simple navigation will include Home, About Us, Services, Gallery, Contact Us, and Appointments. The website will be user-friendly, responsive, accessible, and suitable for all devices. Mhlongo’s Royal Treatment website will require a memorable domain name and reliable web hosting to ensure it is easily accessible online. HTML5 will be used to create the website’s structure and content, while CSS3 will provide styling, colours, fonts, spacing, and responsive layouts. JavaScript will support interactive features such as image galleries, booking forms, navigation menus, and other website functions. Bootstrap or another responsive framework will ensure compatibility across smartphones, tablets, and computers. If online bookings and customer information are stored, a database or backend system will be required. The website will also include SSL/HTTPS security, SEO, image optimisation, performance improvements, and regular backups. The Mhlongo’s Royal Treatment website project will be completed over ten weeks. Week 1 will focus on planning and identifying project requirements, followed by research and content collection in Week 2. Week 3 will develop the website structure, navigation, and wireframes, while Week 4 will focus on visual design and branding. Development will take place in Week 5, followed by content integration in Week 6. Week 7 will involve testing functionality, responsiveness, and usability. Week 8 will address corrections and improvements. Week 9 will involve final review and client approval. Finally, Week 10 will focus on publishing the website and completing the project submission. The estimated budget for developing the Mhlongo’s Royal Treatment website is R14,708. This includes R1,000 for planning and requirements, R2,500 for UI/UX and website design, and R6,000 for website development. Content preparation and integration will cost approximately R1,000, while testing and quality assurance are estimated at R1,000. Additional costs include R100 for domain registration, R1,308 for first-year web hosting, and R1,800 for maintenance and updates. The SSL certificate is estimated at no additional cost. Overall, the budget covers the main development, technical, and maintenance requirements needed to create and maintain a professional website during its first year.
+# Mhlongo’s Royal Treatment
+
+**Beauty and Personal-Care Services Website**
+
+---
+
+## 1. Project Overview
+
+Mhlongo’s Royal Treatment is a beauty and personal-care business focused on providing quality, professional, and personalised services. The business started by providing acrylic and gel nail services to family, friends, and students before expanding its customer base and services.
+
+The website was created to give the business a professional online presence and make it easier for customers to find information, view services, explore previous work, make appointment enquiries, and contact the business.
+
+The website uses a **luxurious, elegant, modern, and welcoming design** based around the concept of giving every customer the **“Royal Treatment.”**
+
+The main target audience is customers aged **18–60**, including students, young adults, working professionals, men, women, families, and special-occasion clients.
+
+---
+
+## 2. Functionality and Features
+
+### Homepage
+
+* Introduction to Mhlongo’s Royal Treatment
+* Featured services
+* Business information
+* Call-to-action buttons
+* Navigation to the main website sections
+
+### About Us
+
+* Business story
+* Company information
+* Values and goals
+* Introduction to the brand
+
+### Services
+
+* Service listings
+* Service descriptions
+* Prices where applicable
+* Booking links
+
+### Gallery
+
+* Images of previous work
+* Beauty and nail designs
+* Visual presentation of services
+
+### Appointments
+
+* Customer booking/enquiry form
+* Name and contact details
+* Service selection
+* Preferred date
+* Preferred time
+* Additional requests
+* Booking confirmation
+
+### Contact Us
+
+* Phone
+* Email
+* WhatsApp
+* Social media
+* Business hours
+* Location
+* Contact form
+* Map
+
+### Additional Features
+
+* Promotions
+* Customer reviews
+* FAQs
+* Responsive navigation
+* Mobile-friendly design
+* Clear call-to-action buttons
+* SEO considerations
+
+---
+
+## 3. Design
+
+The website has been designed to create a professional and luxurious customer experience.
+
+### Colour Scheme
+
+| Colour        | Purpose                                    |
+| ------------- | ------------------------------------------ |
+| Royal Purple  | Represents royalty, elegance and luxury    |
+| Gold          | Represents quality and refinement          |
+| White/Cream   | Creates a clean and welcoming appearance   |
+| Dark Charcoal | Provides contrast and improves readability |
+
+The website is responsive and designed for:
+
+* Smartphones
+* Tablets
+* Laptops
+* Desktop computers
+
+The interface uses clear navigation, readable typography, high-quality imagery, and prominent buttons such as **“Book Now,” “View Services,”** and **“Contact Us.”**
+
+---
+
+# 4. Sitemap
+
+```text
+MHLONGO'S ROYAL TREATMENT
+│
+├── Home
+│
+├── About Us
+│   ├── Our Story
+│   ├── Values
+│   └── Goals
+│
+├── Services
+│   └── Prices
+│
+├── Gallery
+│
+├── Appointments
+│   └── Booking Form
+│
+├── Promotions
+│
+├── Reviews
+│
+├── FAQs
+│
+└── Contact Us
+    ├── Phone
+    ├── Email
+    ├── WhatsApp
+    ├── Social Media
+    ├── Business Hours
+    └── Location / Map
+```
+
+---
+
+# 5. Website Structure Diagram
+
+```text
+                       ┌──────────────────────────┐
+                       │ MHLONGO'S ROYAL         │
+                       │ TREATMENT WEBSITE       │
+                       └────────────┬─────────────┘
+                                    │
+        ┌──────────────┬────────────┼────────────┬──────────────┐
+        │              │            │            │              │
+        ▼              ▼            ▼            ▼              ▼
+   ┌────────┐    ┌──────────┐ ┌──────────┐ ┌─────────┐    ┌─────────┐
+   │  Home  │    │ About Us │ │ Services │ │ Gallery │    │ Contact │
+   └────┬───┘    └──────────┘ └────┬─────┘ └─────────┘    └────┬────┘
+        │                          │                            │
+        │                          ▼                            │
+        │                    ┌────────────┐                      │
+        │                    │   Prices   │                      │
+        │                    └────────────┘                      │
+        │                                                        │
+        ├───────────────┬───────────────┬──────────────┐         │
+        │               │               │              │         │
+        ▼               ▼               ▼              ▼         ▼
+   ┌───────────┐  ┌────────────┐  ┌───────────┐  ┌────────┐ ┌────────┐
+   │Appointments│  │ Promotions │  │  Reviews  │  │  FAQs  │ │Contact │
+   └─────┬─────┘  └────────────┘  └───────────┘  └────────┘ └────────┘
+         │
+         ▼
+   ┌──────────────┐
+   │ Booking Form │
+   └──────┬───────┘
+          │
+          ▼
+   ┌──────────────┐
+   │ Confirmation │
+   └──────────────┘
+```
+
+---
+
+# 6. Technologies Used
+
+### HTML5
+
+Used to create the structure and content of the website.
+
+### CSS3
+
+Used for:
+
+* Colours
+* Fonts
+* Layout
+* Spacing
+* Responsive design
+* Buttons
+* Visual styling
+
+### JavaScript
+
+Used for interactive features such as:
+
+* Image galleries
+* Form validation
+* Navigation
+* Booking interactions
+* Interactive elements
+
+### Bootstrap
+
+Bootstrap or a responsive framework can be used to improve the website's compatibility across different screen sizes.
+
+### Future Backend / Database
+
+A backend and database may be added in future versions to support:
+
+* Customer information
+* Appointment storage
+* Online payments
+* Customer accounts
+* Online shopping
+
+---
+
+# 7. Project Structure
+
+```text
+Mhlongos-Royal-Treatment/
+│
+├── index.html
+│
+├── pages/
+│   ├── about.html
+│   ├── services.html
+│   ├── gallery.html
+│   ├── booking.html
+│   ├── promotions.html
+│   ├── reviews.html
+│   ├── faq.html
+│   └── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── images/
+│   ├── logo/
+│   ├── gallery/
+│   └── services/
+│
+└── README.md
+```
+
+---
+
+# 8. Changelog
+
+The changelog records the development, changes, improvements, and planned updates made to the website.
+
+## Version 0.1 – Initial Planning
+
+### Added
+
+* Identified the need for a professional website.
+* Defined the purpose of the website.
+* Identified the target audience.
+* Identified the main website objectives.
+* Identified the need for online customer communication.
+* Identified the need for appointment functionality.
+* Identified the requirement for responsive design.
+* Established the main website sections.
+
+### Planned Pages
+
+* Home
+* About Us
+* Services
+* Gallery
+* Appointments
+* Contact Us
+
+---
+
+## Version 0.2 – Website Structure
+
+### Added
+
+* Created the initial website structure.
+* Created the main navigation structure.
+* Developed the website sitemap.
+* Planned the relationship between website pages.
+* Planned the customer journey.
+* Planned the appointment process.
+* Planned the contact and communication sections.
+
+### Navigation
+
+The main navigation was organised into:
+
+* Home
+* About Us
+* Services
+* Gallery
+* Appointments
+* Contact Us
+
+---
+
+## Version 0.3 – Visual Design
+
+### Added
+
+* Developed the initial visual identity.
+* Selected royal purple as the main brand colour.
+* Added gold as an accent colour.
+* Added white/cream for clean backgrounds.
+* Added dark charcoal for contrast.
+* Planned a luxurious and elegant design.
+* Selected modern and readable typography.
+* Planned consistent heading styles.
+* Planned clear call-to-action buttons.
+* Planned responsive layouts.
+
+### Design Improvements
+
+* Improved visual hierarchy.
+* Created a consistent colour scheme.
+* Planned spacing between sections.
+* Planned mobile-friendly layouts.
+* Planned consistent button styling.
+
+---
+
+## Version 0.4 – Homepage
+
+### Added
+
+* Created the homepage layout.
+* Added business introduction.
+* Added navigation menu.
+* Added service highlights.
+* Added call-to-action buttons.
+* Added links to important website sections.
+* Added areas for contact information.
+* Added responsive layout structure.
+
+### Improved
+
+* Homepage organisation.
+* Navigation.
+* User flow.
+* Visibility of important information.
+
+---
+
+## Version 0.5 – Services
+
+### Added
+
+* Created the Services section.
+* Added service categories.
+* Added service descriptions.
+* Added pricing areas.
+* Added service images where applicable.
+* Added booking links/buttons.
+
+### Improved
+
+* Organisation of service information.
+* Customer access to service details.
+* Visibility of appointment options.
+
+---
+
+## Version 0.6 – Gallery
+
+### Added
+
+* Created the Gallery section.
+* Added image display areas.
+* Organised images into a visual layout.
+* Added areas for previous work.
+* Planned interactive image functionality.
+
+### Improved
+
+* Visual presentation of services.
+* Customer ability to view examples of previous work.
+* Image organisation.
+
+---
+
+## Version 0.7 – Appointment System
+
+### Added
+
+* Created the appointment section.
+* Added booking/enquiry form.
+* Added customer name field.
+* Added contact number field.
+* Added email field.
+* Added service selection.
+* Added preferred date.
+* Added preferred time.
+* Added additional message/request field.
+* Added booking submission functionality.
+* Added booking confirmation concept.
+
+### Improved
+
+* Booking process.
+* Form organisation.
+* Customer access to appointments.
+* User interaction with the booking system.
+
+---
+
+## Version 0.8 – Contact Section
+
+### Added
+
+* Created the Contact Us section.
+* Added telephone contact option.
+* Added email contact option.
+* Added WhatsApp contact option.
+* Added social media links.
+* Added business hours.
+* Added location information.
+* Added contact/enquiry form.
+* Planned map integration.
+
+### Improved
+
+* Customer communication.
+* Accessibility of business information.
+* Access to location details.
+
+---
+
+## Version 0.9 – Additional Features
+
+### Added
+
+* Promotions section.
+* Customer reviews section.
+* FAQ section.
+* Additional call-to-action buttons.
+* Additional customer information areas.
+
+### Planned
+
+* Online shopping.
+* Secure online payments.
+* Loyalty programme.
+* Automated appointment reminders.
+* Customer accounts.
+
+---
+
+# Version 1.0 – Final Website
+
+### Added
+
+* Completed main website structure.
+* Completed website navigation.
+* Completed main website pages.
+* Implemented responsive design.
+* Implemented consistent branding.
+* Implemented service information.
+* Implemented gallery.
+* Implemented appointment functionality.
+* Implemented contact functionality.
+* Added supporting website sections.
+* Added final website content.
+* Added responsive layouts.
+* Added accessibility considerations.
+* Added SEO considerations.
+
+### Testing
+
+The website was prepared for testing across:
+
+* Desktop computers
+* Laptops
+* Tablets
+* Smartphones
+
+Testing included:
+
+* Navigation
+* Internal links
+* Forms
+* Buttons
+* Images
+* Responsive layouts
+* Text readability
+* User experience
+* Interactive elements
+
+---
+
+# Future Updates
+
+## Version 1.1
+
+Planned improvements:
+
+* Improve booking functionality.
+* Improve form validation.
+* Add additional services.
+* Add more gallery images.
+* Improve mobile responsiveness.
+* Improve website performance.
+* Add additional customer reviews.
+
+## Version 1.2
+
+Planned improvements:
+
+* Online payment integration.
+* Automated booking confirmations.
+* Appointment reminders.
+* Customer account functionality.
+* Improved appointment management.
+
+## Version 2.0
+
+Planned improvements:
+
+* Online shopping.
+* Loyalty programme.
+* Multiple business locations.
+* Expanded service categories.
+* Advanced customer management.
+* Additional marketing functionality.
+
+---
+
+# 9. References
+
+The following sources were used for technical and web-development guidance:
+
+1. Mozilla Developer Network (MDN) (n.d.) *HTML: HyperText Markup Language*. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
+
+2. Mozilla Developer Network (MDN) (n.d.) *CSS: Cascading Style Sheets*. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS
+
+3. Mozilla Developer Network (MDN) (n.d.) *JavaScript*. Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+4. Bootstrap (n.d.) *Bootstrap Documentation*. Available at: https://getbootstrap.com/docs/
+
+5. Google for Developers (n.d.) *SEO Starter Guide*. Available at: https://developers.google.com/search/docs/fundamentals/seo-starter-guide
+
+6. World Wide Web Consortium (W3C) (n.d.) *Web Accessibility Initiative (WAI)*. Available at: https://www.w3.org/WAI/
+
+---
+
+## 10. Project Status
+
+**Status:** Completed / Final Development Stage
+
+**Project:** Mhlongo’s Royal Treatment Website
+**Version:** 1.0
+**Year:** 2026
+
+---
