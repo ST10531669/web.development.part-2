@@ -1,0 +1,3 @@
+User-agent :  *
+Allow: /
+Sitemap: https://steady-tanuki-292a40.netlify.app//sitemap.xml
