@@ -1,63 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="css/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Request an appointment with Mhlongo's Royal Treatment using the appointment enquiry form.">
+  <meta name="author" content="Mhlongo's Royal Treatment">
+  <title>Book an Appointment | Mhlongo's Royal Treatment</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/script.js" defer></script>
 </head>
 <body>
-
-    <header>
-        <nav>
-            <div class="logo">
-              MHLONGO'S ROYAL TREATMENT
-              </div>
-            <ul class="nav-links">
-                <li><a href="home.html">Home</a>
-                  </li>
-                <li><a href="about.html">About</a>
-                  </li>
-                <li><a href="service.html">Services</a>
-                  </li>
-                <li><a href="contact.html">Contact</a>
-                  </li>
-                  <li><a href="enquiry.html">Enquiry</a>
-                  </li>
-            </ul>
-        </nav>
-    </header>
-<section id="booking">
-
-<h2>Book Appointment</h2>
-
-<form id="bookingForm">
-
-<input type="text"
-placeholder="Full Name"
-required>
-
-<input type="tel"
-placeholder="Phone Number"
-required>
-
-<input type="email"
-placeholder="Email Address"
-required>
-
-<input type="date" required>
-
-<textarea
-placeholder="Message"
-rows="5">
-</textarea>
-
-<button type="submit">
-Book Now
-</button>
-
-</form>
-
-</section>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header"><nav class="navbar" aria-label="Main navigation">
+    <a class="logo" href="home.html">MHLONGO'S <span>ROYAL TREATMENT</span></a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="navLinks">☰ <span class="sr-only">Open menu</span></button>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="home.html">Home</a></li><li><a href="about.html">About</a></li><li><a href="service.html">Services</a></li><li><a href="gallery.html">Gallery</a></li><li><a aria-current="page" href="enquiry.html">Book Now</a></li><li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav></header>
+  <main id="main">
+    <section class="page-banner"><p class="eyebrow">YOUR SELF-CARE STARTS HERE</p><h1>Request an Appointment</h1><p>Complete the form below. Fields marked * are required.</p></section>
+    <section class="section form-section">
+      <form id="bookingForm" class="booking-form" novalidate>
+        <div class="form-row">
+          <div class="form-field"><label for="fullName">Full name *</label><input id="fullName" name="fullName" type="text" autocomplete="name" minlength="2" required><small class="error-message"></small></div>
+          <div class="form-field"><label for="phone">Phone number *</label><input id="phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="e.g. 074 123 4567" required><small class="error-message"></small></div>
+        </div>
+        <div class="form-row">
+          <div class="form-field"><label for="email">Email address *</label><input id="email" name="email" type="email" autocomplete="email" required><small class="error-message"></small></div>
+          <div class="form-field"><label for="service">Choose a service *</label><select id="service" name="service" required><option value="">Select a service</option><option>Toes Acrylic Nails</option><option>Fingernails Acrylic</option><option>Toes Gel Nails</option><option>Fingernails Gel</option><option>Massage Therapy</option></select><small class="error-message"></small></div>
+        </div>
+        <div class="form-row">
+          <div class="form-field"><label for="date">Preferred date *</label><input id="date" name="date" type="date" required><small class="error-message"></small></div>
+          <div class="form-field"><label for="time">Preferred time *</label><input id="time" name="time" type="time" required><small class="error-message"></small></div>
+        </div>
+        <div class="form-field"><label for="message">Additional message (optional)</label><textarea id="message" name="message" rows="5" maxlength="500" placeholder="Tell us about any requests..."></textarea><small class="field-hint">Maximum 500 characters.</small></div>
+        <label class="checkbox-label"><input id="consent" name="consent" type="checkbox" required> I confirm that the contact details I entered are correct. *</label>
+        <small class="error-message" id="consentError"></small>
+        <button class="button" type="submit">Submit Appointment Request</button>
+        <div id="formMessage" class="form-message" role="status" aria-live="polite"></div>
+        <p class="notice">Important: this is a front-end demonstration. The request is not sent or stored online. Please contact the business directly to confirm your appointment.</p>
+      </form>
+    </section>
+  </main>
+  <footer class="site-footer"><p><strong>MHLONGO'S ROYAL TREATMENT</strong></p><p>Phone: <a href="tel:+27748374384">074 837 4384</a> · Email: <a href="mailto:info@royaltreatment.co.za">info@royaltreatment.co.za</a></p><p class="copyright">© <span class="current-year">2026</span> Mhlongo's Royal Treatment. All rights reserved.</p></footer>
 </body>
 </html>
