@@ -35,54 +35,57 @@ This project provides information about Mhlongo's Royal Treatment, including its
   ## Part 1 – Initial Website Development
 
 
-Created the initial website structure using HTML5.
-Developed the homepage (home.html) to introduce Mhlongo's Royal Treatment.
-Added an About page to provide information about the business, its background and services.
-Created a Services page displaying beauty treatments, nail services and massage therapy.
-Added a Gallery page to showcase beauty and personal-care services.
-Created a Contact page containing the business contact information.
-Added navigation links to connect the website pages.
-Included initial images and written content relevant to the beauty business.
-Implemented
+- Created the initial website structure using HTML5.
+- Developed the homepage (home.html) to introduce Mhlongo's Royal Treatment.
+- Added an About page to provide information about the business, its background and services.
+- Created a Services page displaying beauty treatments, nail services and massage therapy.
+- Added a Gallery page to showcase beauty and personal-care services.
+- Created a Contact page containing the business contact information.
+- Added navigation links to connect the website pages.
+- Included initial images and written content relevant to the beauty business.
 
-Established the basic layout and structure of the website.
-Added headings, paragraphs, images and links.
-Organised website content into separate pages.
-Created an initial design representing the business brand.
+### Implemented
+
+-Established the basic layout and structure of the website.
+-Added headings, paragraphs, images and links.
+-Organised website content into separate pages.
+-Created an initial design representing the business brand.
 
 ## Part 2 – Website Styling and Layout Improvements
 
-Developed an external CSS stylesheet for consistent website styling.
-Introduced a professional beauty-spa colour scheme.
-Added typography, backgrounds, borders and spacing.
-Created responsive service cards and image layouts.
-Improved the navigation bar and website footer.
-Added hover effects and visual transitions.
-Improved the appearance of buttons and calls to action.
-Improved
+- Developed an external CSS stylesheet for consistent website styling.
+- Introduced a professional beauty-spa colour scheme.
+- Added typography, backgrounds, borders and spacing.
+- Created responsive service cards and image layouts.
+- Improved the navigation bar and website footer.
+- Added hover effects and visual transitions.
+- Improved the appearance of buttons and calls to action.
 
-Enhanced the overall appearance and presentation of the website.
-Improved page consistency through reusable CSS styles.
-Adjusted layouts for different screen sizes.
-Improved image positioning and sizing.
-Organised the CSS code for easier maintenance.
-Enhanced the user experience through clearer navigation and visual presentation.
+### Improved
+
+- Enhanced the overall appearance and presentation of the website.
+- Improved page consistency through reusable CSS styles.
+- Adjusted layouts for different screen sizes.
+- Improved image positioning and sizing.
+- Organised the CSS code for easier maintenance.
+- Enhanced the user experience through clearer navigation and visual presentation.
 
 
-Corrected the HTML structure so each page has one document, head and body.
-Improved responsive layouts for phones, tablets and desktop screens.
-Improved form accessibility with labels, error messages, focus states and live status messages.
-Improved navigation links and calls to action.
-Replaced invalid CSS declarations with standard CSS Grid, Flexbox and spacing rules.
-Limitations and Future Improvements
+- Corrected the HTML structure so each page has one document, head and body.
+- Improved responsive layouts for phones, tablets and desktop screens.
+- Improved form accessibility with labels, error messages, focus states and live status messages.
+- Improved navigation links and calls to action.
+- Replaced invalid CSS declarations with standard CSS Grid, Flexbox and spacing rules.
 
-Connect the appointment and contact forms to a secure backend or form service to receive actual submissions.
-Replace the example map coordinates with the verified business location.
-Confirm that all service prices are current before publishing.
-Test all links and image filenames in the final project folder.
-Test the website on mobile devices and desktop computers.
-Validate HTML and CSS before deployment.
-Deploy the final website using GitHub Pages, Netlify or another hosting platform.
+### Limitations and Future Improvements
+
+- Connect the appointment and contact forms to a secure backend or form service to receive actual submissions.
+- Replace the example map coordinates with the verified business location.
+- Confirm that all service prices are current before publishing.
+- Test all links and image filenames in the final project folder.
+- Test the website on mobile devices and desktop computers.
+- Validate HTML and CSS before deployment.
+- Deploy the final website using GitHub Pages, Netlify or another hosting platform.
 
 ## Part 3 – Enhancing Functionality and SEO changelog
 
